@@ -1,5 +1,5 @@
 {
-  "name" : "securetrading/stpp_json",
+  "name" : "airshipteam/secure-trading-stpp_json",
   "version" : "4.0.8",
   "description" : "Secure Trading's JSON API.",
   "license" : "MIT",
@@ -8,8 +8,8 @@
     "securetrading/exception" : "^1.0.1",
     "securetrading/ioc" : "^3.0",
     "securetrading/data" : "^3.0",
-    "securetrading/log" : "^3.0",
-    "securetrading/http" : "^3.0"
+    "airshipteam/secure-trading-log" : "^3.0",
+    "airshipteam/secure-trading-http" : "^3.0"
 
   },
   "require-dev" : {
